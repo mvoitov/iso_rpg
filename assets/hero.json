@@ -1,0 +1,972 @@
+{"frames": [
+
+{
+	"filename": "Tuscan_Walk_00000.png",
+	"frame": {"x":294,"y":347,"w":70,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":175},
+	"sourceSize": {"w":70,"h":175}
+},
+{
+	"filename": "Tuscan_Walk_00001.png",
+	"frame": {"x":1230,"y":528,"w":69,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":180},
+	"sourceSize": {"w":69,"h":180}
+},
+{
+	"filename": "Tuscan_Walk_00002.png",
+	"frame": {"x":1143,"y":709,"w":68,"h":183},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":183},
+	"sourceSize": {"w":68,"h":183}
+},
+{
+	"filename": "Tuscan_Walk_00003.png",
+	"frame": {"x":1303,"y":710,"w":68,"h":183},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":183},
+	"sourceSize": {"w":68,"h":183}
+},
+{
+	"filename": "Tuscan_Walk_00004.png",
+	"frame": {"x":1732,"y":713,"w":69,"h":185},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":185},
+	"sourceSize": {"w":69,"h":185}
+},
+{
+	"filename": "Tuscan_Walk_00005.png",
+	"frame": {"x":411,"y":705,"w":71,"h":181},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":181},
+	"sourceSize": {"w":71,"h":181}
+},
+{
+	"filename": "Tuscan_Walk_00006.png",
+	"frame": {"x":1301,"y":528,"w":71,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":180},
+	"sourceSize": {"w":71,"h":180}
+},
+{
+	"filename": "Tuscan_Walk_00007.png",
+	"frame": {"x":983,"y":349,"w":72,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":176},
+	"sourceSize": {"w":72,"h":176}
+},
+{
+	"filename": "Tuscan_Walk_00008.png",
+	"frame": {"x":1373,"y":710,"w":71,"h":183},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":183},
+	"sourceSize": {"w":71,"h":183}
+},
+{
+	"filename": "Tuscan_Walk_00009.png",
+	"frame": {"x":1519,"y":711,"w":69,"h":184},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":184},
+	"sourceSize": {"w":69,"h":184}
+},
+{
+	"filename": "Tuscan_Walk_00010.png",
+	"frame": {"x":1590,"y":711,"w":69,"h":184},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":184},
+	"sourceSize": {"w":69,"h":184}
+},
+{
+	"filename": "Tuscan_Walk_00011.png",
+	"frame": {"x":1661,"y":711,"w":69,"h":184},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":184},
+	"sourceSize": {"w":69,"h":184}
+},
+{
+	"filename": "Tuscan_Walk_00012.png",
+	"frame": {"x":1446,"y":711,"w":71,"h":183},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":183},
+	"sourceSize": {"w":71,"h":183}
+},
+{
+	"filename": "Tuscan_Walk_00013.png",
+	"frame": {"x":1374,"y":528,"w":72,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":180},
+	"sourceSize": {"w":72,"h":180}
+},
+{
+	"filename": "Tuscan_Walk_00014.png",
+	"frame": {"x":74,"y":523,"w":71,"h":178},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":178},
+	"sourceSize": {"w":71,"h":178}
+},
+{
+	"filename": "Tuscan_Walk_10000.png",
+	"frame": {"x":366,"y":347,"w":72,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":175},
+	"sourceSize": {"w":72,"h":175}
+},
+{
+	"filename": "Tuscan_Walk_10001.png",
+	"frame": {"x":685,"y":526,"w":81,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":179},
+	"sourceSize": {"w":81,"h":179}
+},
+{
+	"filename": "Tuscan_Walk_10002.png",
+	"frame": {"x":1448,"y":529,"w":85,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":180},
+	"sourceSize": {"w":85,"h":180}
+},
+{
+	"filename": "Tuscan_Walk_10003.png",
+	"frame": {"x":768,"y":526,"w":85,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":179},
+	"sourceSize": {"w":85,"h":179}
+},
+{
+	"filename": "Tuscan_Walk_10004.png",
+	"frame": {"x":834,"y":707,"w":80,"h":182},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":182},
+	"sourceSize": {"w":80,"h":182}
+},
+{
+	"filename": "Tuscan_Walk_10005.png",
+	"frame": {"x":1535,"y":529,"w":71,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":180},
+	"sourceSize": {"w":71,"h":180}
+},
+{
+	"filename": "Tuscan_Walk_10006.png",
+	"frame": {"x":855,"y":526,"w":60,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":179},
+	"sourceSize": {"w":60,"h":179}
+},
+{
+	"filename": "Tuscan_Walk_10007.png",
+	"frame": {"x":1767,"y":352,"w":54,"h":177},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":177},
+	"sourceSize": {"w":54,"h":177}
+},
+{
+	"filename": "Tuscan_Walk_10008.png",
+	"frame": {"x":1212,"y":174,"w":64,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":174},
+	"sourceSize": {"w":64,"h":174}
+},
+{
+	"filename": "Tuscan_Walk_10009.png",
+	"frame": {"x":1278,"y":174,"w":78,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":174},
+	"sourceSize": {"w":78,"h":174}
+},
+{
+	"filename": "Tuscan_Walk_10010.png",
+	"frame": {"x":440,"y":348,"w":85,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":175},
+	"sourceSize": {"w":85,"h":175}
+},
+{
+	"filename": "Tuscan_Walk_10011.png",
+	"frame": {"x":527,"y":348,"w":85,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":175},
+	"sourceSize": {"w":85,"h":175}
+},
+{
+	"filename": "Tuscan_Walk_10012.png",
+	"frame": {"x":614,"y":349,"w":79,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":175},
+	"sourceSize": {"w":79,"h":175}
+},
+{
+	"filename": "Tuscan_Walk_10013.png",
+	"frame": {"x":1358,"y":174,"w":66,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":174},
+	"sourceSize": {"w":66,"h":174}
+},
+{
+	"filename": "Tuscan_Walk_10014.png",
+	"frame": {"x":476,"y":173,"w":61,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":173},
+	"sourceSize": {"w":61,"h":173}
+},
+{
+	"filename": "Tuscan_Walk_20000.png",
+	"frame": {"x":1529,"y":1,"w":59,"h":172},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":172},
+	"sourceSize": {"w":59,"h":172}
+},
+{
+	"filename": "Tuscan_Walk_20001.png",
+	"frame": {"x":1590,"y":1,"w":67,"h":172},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":172},
+	"sourceSize": {"w":67,"h":172}
+},
+{
+	"filename": "Tuscan_Walk_20002.png",
+	"frame": {"x":669,"y":1,"w":86,"h":171},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":171},
+	"sourceSize": {"w":86,"h":171}
+},
+{
+	"filename": "Tuscan_Walk_20003.png",
+	"frame": {"x":69,"y":1,"w":94,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":170},
+	"sourceSize": {"w":94,"h":170}
+},
+{
+	"filename": "Tuscan_Walk_20004.png",
+	"frame": {"x":757,"y":1,"w":89,"h":171},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":171},
+	"sourceSize": {"w":89,"h":171}
+},
+{
+	"filename": "Tuscan_Walk_20005.png",
+	"frame": {"x":539,"y":173,"w":73,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":173},
+	"sourceSize": {"w":73,"h":173}
+},
+{
+	"filename": "Tuscan_Walk_20006.png",
+	"frame": {"x":1805,"y":175,"w":55,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":175},
+	"sourceSize": {"w":55,"h":175}
+},
+{
+	"filename": "Tuscan_Walk_20007.png",
+	"frame": {"x":1057,"y":349,"w":60,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":176},
+	"sourceSize": {"w":60,"h":176}
+},
+{
+	"filename": "Tuscan_Walk_20008.png",
+	"frame": {"x":695,"y":349,"w":71,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":175},
+	"sourceSize": {"w":71,"h":175}
+},
+{
+	"filename": "Tuscan_Walk_20009.png",
+	"frame": {"x":1426,"y":174,"w":85,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":174},
+	"sourceSize": {"w":85,"h":174}
+},
+{
+	"filename": "Tuscan_Walk_20010.png",
+	"frame": {"x":848,"y":1,"w":95,"h":171},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":171},
+	"sourceSize": {"w":95,"h":171}
+},
+{
+	"filename": "Tuscan_Walk_20011.png",
+	"frame": {"x":165,"y":1,"w":95,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":170},
+	"sourceSize": {"w":95,"h":170}
+},
+{
+	"filename": "Tuscan_Walk_20012.png",
+	"frame": {"x":262,"y":1,"w":85,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":170},
+	"sourceSize": {"w":85,"h":170}
+},
+{
+	"filename": "Tuscan_Walk_20013.png",
+	"frame": {"x":1659,"y":1,"w":65,"h":172},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":172},
+	"sourceSize": {"w":65,"h":172}
+},
+{
+	"filename": "Tuscan_Walk_20014.png",
+	"frame": {"x":1726,"y":1,"w":56,"h":172},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":172},
+	"sourceSize": {"w":56,"h":172}
+},
+{
+	"filename": "Tuscan_Walk_30000.png",
+	"frame": {"x":945,"y":1,"w":69,"h":171},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":171},
+	"sourceSize": {"w":69,"h":171}
+},
+{
+	"filename": "Tuscan_Walk_30001.png",
+	"frame": {"x":614,"y":174,"w":75,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":173},
+	"sourceSize": {"w":75,"h":173}
+},
+{
+	"filename": "Tuscan_Walk_30002.png",
+	"frame": {"x":691,"y":174,"w":84,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":173},
+	"sourceSize": {"w":84,"h":173}
+},
+{
+	"filename": "Tuscan_Walk_30003.png",
+	"frame": {"x":777,"y":174,"w":84,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":173},
+	"sourceSize": {"w":84,"h":173}
+},
+{
+	"filename": "Tuscan_Walk_30004.png",
+	"frame": {"x":1016,"y":1,"w":81,"h":171},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":171},
+	"sourceSize": {"w":81,"h":171}
+},
+{
+	"filename": "Tuscan_Walk_30005.png",
+	"frame": {"x":349,"y":1,"w":70,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":170},
+	"sourceSize": {"w":70,"h":170}
+},
+{
+	"filename": "Tuscan_Walk_30006.png",
+	"frame": {"x":863,"y":174,"w":65,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":173},
+	"sourceSize": {"w":65,"h":173}
+},
+{
+	"filename": "Tuscan_Walk_30007.png",
+	"frame": {"x":147,"y":523,"w":74,"h":178},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":178},
+	"sourceSize": {"w":74,"h":178}
+},
+{
+	"filename": "Tuscan_Walk_30008.png",
+	"frame": {"x":917,"y":527,"w":81,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":179},
+	"sourceSize": {"w":81,"h":179}
+},
+{
+	"filename": "Tuscan_Walk_30009.png",
+	"frame": {"x":1608,"y":529,"w":87,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":180},
+	"sourceSize": {"w":87,"h":180}
+},
+{
+	"filename": "Tuscan_Walk_30010.png",
+	"frame": {"x":484,"y":705,"w":88,"h":181},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":181},
+	"sourceSize": {"w":88,"h":181}
+},
+{
+	"filename": "Tuscan_Walk_30011.png",
+	"frame": {"x":294,"y":524,"w":87,"h":178},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":178},
+	"sourceSize": {"w":87,"h":178}
+},
+{
+	"filename": "Tuscan_Walk_30012.png",
+	"frame": {"x":1000,"y":527,"w":84,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":179},
+	"sourceSize": {"w":84,"h":179}
+},
+{
+	"filename": "Tuscan_Walk_30013.png",
+	"frame": {"x":1119,"y":349,"w":78,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":176},
+	"sourceSize": {"w":78,"h":176}
+},
+{
+	"filename": "Tuscan_Walk_30014.png",
+	"frame": {"x":930,"y":174,"w":71,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":173},
+	"sourceSize": {"w":71,"h":173}
+},
+{
+	"filename": "Tuscan_Walk_40000.png",
+	"frame": {"x":1199,"y":350,"w":70,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":176},
+	"sourceSize": {"w":70,"h":176}
+},
+{
+	"filename": "Tuscan_Walk_40001.png",
+	"frame": {"x":1086,"y":527,"w":69,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":179},
+	"sourceSize": {"w":69,"h":179}
+},
+{
+	"filename": "Tuscan_Walk_40002.png",
+	"frame": {"x":1697,"y":529,"w":68,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":180},
+	"sourceSize": {"w":68,"h":180}
+},
+{
+	"filename": "Tuscan_Walk_40003.png",
+	"frame": {"x":1002,"y":708,"w":68,"h":182},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":182},
+	"sourceSize": {"w":68,"h":182}
+},
+{
+	"filename": "Tuscan_Walk_40004.png",
+	"frame": {"x":223,"y":523,"w":69,"h":178},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":178},
+	"sourceSize": {"w":69,"h":178}
+},
+{
+	"filename": "Tuscan_Walk_40005.png",
+	"frame": {"x":1271,"y":350,"w":71,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":176},
+	"sourceSize": {"w":71,"h":176}
+},
+{
+	"filename": "Tuscan_Walk_40006.png",
+	"frame": {"x":1784,"y":1,"w":71,"h":172},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":172},
+	"sourceSize": {"w":71,"h":172}
+},
+{
+	"filename": "Tuscan_Walk_40007.png",
+	"frame": {"x":768,"y":349,"w":72,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":175},
+	"sourceSize": {"w":72,"h":175}
+},
+{
+	"filename": "Tuscan_Walk_40008.png",
+	"frame": {"x":383,"y":525,"w":71,"h":178},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":178},
+	"sourceSize": {"w":71,"h":178}
+},
+{
+	"filename": "Tuscan_Walk_40009.png",
+	"frame": {"x":1767,"y":531,"w":69,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":180},
+	"sourceSize": {"w":69,"h":180}
+},
+{
+	"filename": "Tuscan_Walk_40010.png",
+	"frame": {"x":1072,"y":708,"w":69,"h":182},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":182},
+	"sourceSize": {"w":69,"h":182}
+},
+{
+	"filename": "Tuscan_Walk_40011.png",
+	"frame": {"x":1,"y":702,"w":69,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":180},
+	"sourceSize": {"w":69,"h":180}
+},
+{
+	"filename": "Tuscan_Walk_40012.png",
+	"frame": {"x":456,"y":525,"w":71,"h":178},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":178},
+	"sourceSize": {"w":71,"h":178}
+},
+{
+	"filename": "Tuscan_Walk_40013.png",
+	"frame": {"x":1344,"y":350,"w":72,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":176},
+	"sourceSize": {"w":72,"h":176}
+},
+{
+	"filename": "Tuscan_Walk_40014.png",
+	"frame": {"x":63,"y":173,"w":71,"h":172},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":172},
+	"sourceSize": {"w":71,"h":172}
+},
+{
+	"filename": "Tuscan_Walk_50000.png",
+	"frame": {"x":529,"y":525,"w":72,"h":178},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":178},
+	"sourceSize": {"w":72,"h":178}
+},
+{
+	"filename": "Tuscan_Walk_50001.png",
+	"frame": {"x":72,"y":703,"w":81,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":180},
+	"sourceSize": {"w":81,"h":180}
+},
+{
+	"filename": "Tuscan_Walk_50002.png",
+	"frame": {"x":155,"y":703,"w":86,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":180},
+	"sourceSize": {"w":86,"h":180}
+},
+{
+	"filename": "Tuscan_Walk_50003.png",
+	"frame": {"x":243,"y":704,"w":86,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":180},
+	"sourceSize": {"w":86,"h":180}
+},
+{
+	"filename": "Tuscan_Walk_50004.png",
+	"frame": {"x":603,"y":526,"w":80,"h":178},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":178},
+	"sourceSize": {"w":80,"h":178}
+},
+{
+	"filename": "Tuscan_Walk_50005.png",
+	"frame": {"x":1,"y":523,"w":71,"h":177},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":177},
+	"sourceSize": {"w":71,"h":177}
+},
+{
+	"filename": "Tuscan_Walk_50006.png",
+	"frame": {"x":1513,"y":175,"w":60,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":174},
+	"sourceSize": {"w":60,"h":174}
+},
+{
+	"filename": "Tuscan_Walk_50007.png",
+	"frame": {"x":421,"y":1,"w":54,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":170},
+	"sourceSize": {"w":54,"h":170}
+},
+{
+	"filename": "Tuscan_Walk_50008.png",
+	"frame": {"x":1003,"y":174,"w":64,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":173},
+	"sourceSize": {"w":64,"h":173}
+},
+{
+	"filename": "Tuscan_Walk_50009.png",
+	"frame": {"x":1575,"y":175,"w":78,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":174},
+	"sourceSize": {"w":78,"h":174}
+},
+{
+	"filename": "Tuscan_Walk_50010.png",
+	"frame": {"x":1655,"y":175,"w":85,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":174},
+	"sourceSize": {"w":85,"h":174}
+},
+{
+	"filename": "Tuscan_Walk_50011.png",
+	"frame": {"x":1099,"y":1,"w":85,"h":171},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":171},
+	"sourceSize": {"w":85,"h":171}
+},
+{
+	"filename": "Tuscan_Walk_50012.png",
+	"frame": {"x":1186,"y":1,"w":78,"h":171},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":171},
+	"sourceSize": {"w":78,"h":171}
+},
+{
+	"filename": "Tuscan_Walk_50013.png",
+	"frame": {"x":1,"y":1,"w":66,"h":169},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":169},
+	"sourceSize": {"w":66,"h":169}
+},
+{
+	"filename": "Tuscan_Walk_50014.png",
+	"frame": {"x":1742,"y":175,"w":61,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":174},
+	"sourceSize": {"w":61,"h":174}
+},
+{
+	"filename": "Tuscan_Walk_60000.png",
+	"frame": {"x":1418,"y":350,"w":59,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":176},
+	"sourceSize": {"w":59,"h":176}
+},
+{
+	"filename": "Tuscan_Walk_60001.png",
+	"frame": {"x":842,"y":349,"w":67,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":175},
+	"sourceSize": {"w":67,"h":175}
+},
+{
+	"filename": "Tuscan_Walk_60002.png",
+	"frame": {"x":136,"y":173,"w":86,"h":172},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":172},
+	"sourceSize": {"w":86,"h":172}
+},
+{
+	"filename": "Tuscan_Walk_60003.png",
+	"frame": {"x":477,"y":1,"w":93,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":170},
+	"sourceSize": {"w":93,"h":170}
+},
+{
+	"filename": "Tuscan_Walk_60004.png",
+	"frame": {"x":1266,"y":1,"w":89,"h":171},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":171},
+	"sourceSize": {"w":89,"h":171}
+},
+{
+	"filename": "Tuscan_Walk_60005.png",
+	"frame": {"x":1357,"y":1,"w":73,"h":171},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":171},
+	"sourceSize": {"w":73,"h":171}
+},
+{
+	"filename": "Tuscan_Walk_60006.png",
+	"frame": {"x":1069,"y":174,"w":55,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":173},
+	"sourceSize": {"w":55,"h":173}
+},
+{
+	"filename": "Tuscan_Walk_60007.png",
+	"frame": {"x":1,"y":172,"w":60,"h":172},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":172},
+	"sourceSize": {"w":60,"h":172}
+},
+{
+	"filename": "Tuscan_Walk_60008.png",
+	"frame": {"x":1,"y":347,"w":71,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":174},
+	"sourceSize": {"w":71,"h":174}
+},
+{
+	"filename": "Tuscan_Walk_60009.png",
+	"frame": {"x":224,"y":173,"w":85,"h":172},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":172},
+	"sourceSize": {"w":85,"h":172}
+},
+{
+	"filename": "Tuscan_Walk_60010.png",
+	"frame": {"x":1432,"y":1,"w":95,"h":171},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":171},
+	"sourceSize": {"w":95,"h":171}
+},
+{
+	"filename": "Tuscan_Walk_60011.png",
+	"frame": {"x":572,"y":1,"w":95,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":170},
+	"sourceSize": {"w":95,"h":170}
+},
+{
+	"filename": "Tuscan_Walk_60012.png",
+	"frame": {"x":311,"y":173,"w":86,"h":172},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":172},
+	"sourceSize": {"w":86,"h":172}
+},
+{
+	"filename": "Tuscan_Walk_60013.png",
+	"frame": {"x":74,"y":347,"w":65,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":174},
+	"sourceSize": {"w":65,"h":174}
+},
+{
+	"filename": "Tuscan_Walk_60014.png",
+	"frame": {"x":1479,"y":351,"w":56,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":176},
+	"sourceSize": {"w":56,"h":176}
+},
+{
+	"filename": "Tuscan_Walk_70000.png",
+	"frame": {"x":1537,"y":351,"w":69,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":176},
+	"sourceSize": {"w":69,"h":176}
+},
+{
+	"filename": "Tuscan_Walk_70001.png",
+	"frame": {"x":399,"y":173,"w":75,"h":172},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":172},
+	"sourceSize": {"w":75,"h":172}
+},
+{
+	"filename": "Tuscan_Walk_70002.png",
+	"frame": {"x":141,"y":347,"w":84,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":174},
+	"sourceSize": {"w":84,"h":174}
+},
+{
+	"filename": "Tuscan_Walk_70003.png",
+	"frame": {"x":1126,"y":174,"w":84,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":173},
+	"sourceSize": {"w":84,"h":173}
+},
+{
+	"filename": "Tuscan_Walk_70004.png",
+	"frame": {"x":1608,"y":351,"w":81,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":176},
+	"sourceSize": {"w":81,"h":176}
+},
+{
+	"filename": "Tuscan_Walk_70005.png",
+	"frame": {"x":911,"y":349,"w":70,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":175},
+	"sourceSize": {"w":70,"h":175}
+},
+{
+	"filename": "Tuscan_Walk_70006.png",
+	"frame": {"x":227,"y":347,"w":65,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":174},
+	"sourceSize": {"w":65,"h":174}
+},
+{
+	"filename": "Tuscan_Walk_70007.png",
+	"frame": {"x":1691,"y":351,"w":74,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":176},
+	"sourceSize": {"w":74,"h":176}
+},
+{
+	"filename": "Tuscan_Walk_70008.png",
+	"frame": {"x":574,"y":706,"w":81,"h":181},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":181},
+	"sourceSize": {"w":81,"h":181}
+},
+{
+	"filename": "Tuscan_Walk_70009.png",
+	"frame": {"x":657,"y":707,"w":87,"h":181},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":181},
+	"sourceSize": {"w":87,"h":181}
+},
+{
+	"filename": "Tuscan_Walk_70010.png",
+	"frame": {"x":1213,"y":710,"w":88,"h":182},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":182},
+	"sourceSize": {"w":88,"h":182}
+},
+{
+	"filename": "Tuscan_Walk_70011.png",
+	"frame": {"x":746,"y":707,"w":86,"h":181},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":181},
+	"sourceSize": {"w":86,"h":181}
+},
+{
+	"filename": "Tuscan_Walk_70012.png",
+	"frame": {"x":916,"y":708,"w":84,"h":181},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":181},
+	"sourceSize": {"w":84,"h":181}
+},
+{
+	"filename": "Tuscan_Walk_70013.png",
+	"frame": {"x":331,"y":705,"w":78,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":180},
+	"sourceSize": {"w":78,"h":180}
+},
+{
+	"filename": "Tuscan_Walk_70014.png",
+	"frame": {"x":1157,"y":528,"w":71,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":179},
+	"sourceSize": {"w":71,"h":179}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "hero.png",
+	"format": "RGBA8888",
+	"size": {"w":1861,"h":899},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cc810a26cfa3065d54c71043e649161e:e65bbcd45c3b89eaf80e74ea436f95e0:eec64b416d3f54b5cb5181ef71d8f236$"
+}
+}
